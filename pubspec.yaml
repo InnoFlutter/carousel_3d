@@ -1,0 +1,20 @@
+name: carousel_widget_3d
+description: Displays users items overlaying each other in carousel
+version: 1.0.0+1
+homepage: https://github.com/ananasness/carousel_3d
+
+environment:
+  sdk: ">=2.17.1 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+
